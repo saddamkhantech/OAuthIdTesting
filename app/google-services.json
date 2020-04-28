@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "666238511067",
+    "firebase_url": "https://avid-influence-275101.firebaseio.com",
+    "project_id": "avid-influence-275101",
+    "storage_bucket": "avid-influence-275101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666238511067:android:8818e1963e8d2a24a7a9fe",
+        "android_client_info": {
+          "package_name": "com.example.oauthidtesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666238511067-jq7ipike1oe2k9su0pj215ijuj651ovf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oauthidtesting",
+            "certificate_hash": "cb09db181894bc58e57cdd4c025d726386225564"
+          }
+        },
+        {
+          "client_id": "666238511067-nagua7q3v8gu51s0l6btp6jr3s8g28o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3BlbsI9Yair_dLL8Engvnss81EqknGaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666238511067-nagua7q3v8gu51s0l6btp6jr3s8g28o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
